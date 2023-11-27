@@ -1,0 +1,5 @@
+# Ignore files and directories in the 'data' folder
+data/
+
+# Ignore files and directories in the 'results' folder
+results/
